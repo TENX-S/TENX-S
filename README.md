@@ -4,4 +4,4 @@
 * I'm looking for someone to translate the book _Programming Rust_ into Chinese with me. [Details](https://github.com/TENX-S/Programming-Rust-Translation/blob/master/README.md)
 * Fonts I like : Fira Code, Lustria.
 * Languages I like : Rust, C, C++.
-* Languages I hate : Java, Javascript, Scala
+* Languages I hate : Java, Javascript
