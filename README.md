@@ -1,3 +1,3 @@
 
 
-<sup>Rust/C</sup>
+<sub>Rust/C</sub>
