@@ -12,4 +12,4 @@
 <sub> I really enjoy feature film and R&B music and I'm sort of a fan of Adele. </sub>
 <sub> I am not very good at social thing, kind of cautious with stranger. But if you are passionate about the same things as I am, then I am a talkie:). </sub>
 
-<sub> So far, that's all, thank you for visit my page :-) </sub>
+<sub> So far, that's all, thank you for visiting my page :-) </sub>
