@@ -15,4 +15,4 @@
 
 <sub> The book I read recently: *Computer Systems: A programmer's perspective* </sub>
 
-<sub> So far, that's all, thank you for visiting my page :-) </sub>
+<sub> So far, that's all, thank you to be here :-) </sub>
