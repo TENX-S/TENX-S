@@ -1,7 +1,7 @@
 * <sub> I'm a vimer. And I ... </sub>
 
 * <sub> LIKE: </sub>
-  * <sub> Lang: Rust/C/Ocaml/Swift/Go/Python3 </sub>
+  * <sub> Lang: Rust/C/Ocaml/Swift/Go/Python3.6+ </sub>
   * <sub> Food: **Soy foods**/Shin ramyun/Crab stick/Most seafood/... </sub>
   
 * <sub> HATE: </sub> 
