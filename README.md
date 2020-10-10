@@ -13,6 +13,6 @@
 
 <sub> I am not very good at social thing, kind of cautious with stranger. But if you are passionate about the same things as I am, then I am a talkie:). </sub>
 
-<sub> The book I read recently: __Computer Systems: A programmer's perspective__ </sub>
+<sub> The book I read recently: *Computer Systems: A programmer's perspective* </sub>
 
 <sub> So far, that's all, thank you for visiting my page :-) </sub>
