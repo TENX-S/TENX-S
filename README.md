@@ -2,7 +2,7 @@
 
 * <sub> LIKE: </sub>
   * <sub> Lang: Rust/C/Ocaml/Swift/Go/Python3.6+ </sub>
-  * <sub> Food: **Soy foods**/Shin ramyun/Crab stick/Most seafood/... </sub>
+  * <sub> Food: **Soya foods**/Shin ramyun/Crab stick/Most seafood/... </sub>
   
 * <sub> HATE: </sub> 
   * <sub> Lang: **Java** or anything based on JVM/JavaScript/C++ </sub>
