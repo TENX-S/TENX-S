@@ -9,7 +9,7 @@
   * <sub> Food: **PORK**/Greasy/Too Sugary or Spicy/... </sub>
   
   
-<sub> I really enjoy feature film and R&B music and I'm sort of a fan of Adele. </sub>
+<sub> I really enjoy feature films and R&B musics and I'm sort of a fan of Adele. </sub>
 
 <sub> I am not really a social guy, kind of cautious with strangers. But if you are passionate about the same things as I am, then I am a talkie :). </sub>
 
