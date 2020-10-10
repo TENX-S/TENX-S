@@ -6,7 +6,7 @@
   
 * <sub> HATE: </sub> 
   * <sub> lang: **Java** or anything based on JVM/JavaScript/C++ </sub>
-  * <sub> food: **PORK**/Greasy/Too Much Sugary or Spicy/... </sub>
+  * <sub> food: **PORK**/Greasy/Too Sugary or Spicy/... </sub>
   
   
 <sub> I really enjoy feature film and R&B music and I'm sort of a fan of Adele. </sub>
