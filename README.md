@@ -1,20 +1,13 @@
-![](https://visitor-badge.glitch.me/badge?page_id=TENX-S.readme)
+![](http://antzuhl.cn:4000/get/@TENX-S.readme)
 
-* <sub> I'm a vimer. And I ... </sub>
+[![](https://img.shields.io/badge/Linux-ubuntu-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/) 
+[![](https://img.shields.io/badge/macOS-Catalina-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macbook-pro/)
+[![](https://img.shields.io/badge/Windows10-Pro-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.apple.com/macbook-pro/)
 
-* <sub> LIKE: </sub>
-  * <sub> Lang: Rust/C/Ocaml/Swift/Go/Python3.6+ </sub>
-  * <sub> Food: **Soya foods**/Shin ramyun/Crab stick/Most seafood/... </sub>
-  
-* <sub> HATE: </sub> 
-  * <sub> Lang: **Java** or anything based on JVM/JavaScript/C++ </sub>
-  * <sub> Food: **PORK**/Greasy/Too Sugary or Spicy/... </sub>
-  
-  
-<sub> I really enjoy feature films and R&B musics and I'm sort of a fan of Adele. </sub>
-
-<sub> I am not really a social guy, kind of cautious with strangers. But if you are passionate about the same things as I am, then I am a talkie :). </sub>
-
-<sub> The book I read recently: *Computer Systems: A programmer's perspective*. </sub>
-
-<sub> So far, that's all, thank you to be here :-) </sub>
+[![](https://img.shields.io/badge/-Rust-007396?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=Go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![](https://img.shields.io/badge/-Python3-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Ocaml-007396?style=flat-square&logo=Ocaml&logoColor=ffffff)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Vim-007396?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.rust-lang.org/)
