@@ -9,5 +9,5 @@
 [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/-Python3-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=Swift&logoColor=ffffff)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/-Ocaml-007396?style=flat-square&logo=Ocaml&logoColor=ffffff)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/-Vim-007396?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Ocaml-007396?style=flat-square&logo=Ocaml&logoColor=ffffff)](https://ocaml.org/)
+[![](https://img.shields.io/badge/-Vim-007396?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org/)
