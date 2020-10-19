@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=TENX-S.readme)
+
 * <sub> I'm a vimer. And I ... </sub>
 
 * <sub> LIKE: </sub>
