@@ -10,4 +10,4 @@
 [![](https://img.shields.io/badge/-Python3-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=Swift&logoColor=ffffff)](https://swift.org/)
 [![](https://img.shields.io/badge/-Ocaml-007396?style=flat-square&logo=Ocaml&logoColor=ffffff)](https://ocaml.org/)
-[![](https://img.shields.io/badge/-Vim-007396?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org/)
+[![](https://img.shields.io/badge/-NeoVim-007396?style=flat-square&logo=NeoVim&logoColor=ffffff)](https://neovim.io/)
