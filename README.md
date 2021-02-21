@@ -14,4 +14,5 @@
 [![](https://img.shields.io/badge/-Fish-007396?style=flat-square&logo=Fish&logoColor=ffffff)](https://fishshell.com)
 [![](https://img.shields.io/badge/-Bash-007396?style=flat-square&logo=Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-Zsh-007396?style=flat-square&logo=Zsh&logoColor=ffffff)](https://www.zsh.org/)
+[![](https://img.shields.io/badge/-Powershell-007396?style=flat-square&logo=Powershell&logoColor=ffffff)](https://github.com/PowerShell/PowerShell/)
 [![](https://img.shields.io/badge/-NeoVim-007396?style=flat-square&logo=NeoVim&logoColor=ffffff)](https://neovim.io/)
