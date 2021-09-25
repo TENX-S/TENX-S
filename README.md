@@ -3,9 +3,10 @@
 [![](https://img.shields.io/badge/Windows_10-Pro-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
 
 [![](https://img.shields.io/badge/-Rust-007396?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-Cpp-007396?style=flat-square&logo=Cplusplus&logoColor=ffffff)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://www.gnu.org/software/libc/manual/html_node/ISO-C.html)
 [![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=Go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
-[![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/-Lua-007396?style=flat-square&logo=Lua&logoColor=ffffff)](http://www.lua.org/)
 [![](https://img.shields.io/badge/-Python3-007396?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=Swift&logoColor=ffffff)](https://swift.org/)
