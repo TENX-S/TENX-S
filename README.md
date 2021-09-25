@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Windows_10-Pro-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
 
 [![](https://img.shields.io/badge/-Rust-007396?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/-Cpp-007396?style=flat-square&logo=Cplusplus&logoColor=ffffff)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=Cplusplus&logoColor=ffffff)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://www.gnu.org/software/libc/manual/html_node/ISO-C.html)
 [![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=Go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
