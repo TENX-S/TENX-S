@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Windows_10-Pro-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
+[![](https://img.shields.io/badge/Windows_11-Pro-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
 [![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macbook-pro/)
 [![](https://img.shields.io/badge/Fedora-35-33aadd?style=flat-square&logo=fedora&logoColor=ffffff)](https://manjaro.org) 
 
