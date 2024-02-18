@@ -11,9 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   0 secs          ███████████████████▒░░░░░   77.83 %
-TOML   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Go     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
