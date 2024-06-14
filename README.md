@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                2 hrs 53 mins   █████████████████████▒░░░   85.94 %
-textmate          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-GitIgnore file    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-go.mod            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-INI               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
