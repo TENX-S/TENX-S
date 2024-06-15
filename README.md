@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go               5 hrs 2 mins    ████████████████████████▓   98.83 %
+INI              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
