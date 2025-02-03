@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               19 mins         ██████████████████▒░░░░░░   73.17 %
-Python           3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Rust             3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-protobuf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
