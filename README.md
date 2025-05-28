@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go         2 hrs 44 mins   ██████████████████████▓░░   90.88 %
-TOML       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
