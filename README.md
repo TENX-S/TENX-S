@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                27 hrs 56 mins  ██████████████████████▓░░   90.88 %
+Makefile          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+C                 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+C/C++             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
