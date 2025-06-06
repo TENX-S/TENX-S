@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                5 hrs 9 mins    █████████████████████▒░░░   84.76 %
-C/C++             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-C                 16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Markdown          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
