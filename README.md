@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   23 mins         ████████████████████████▒   96.76 %
-x86 Plan9 Assembly   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Assembly             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
