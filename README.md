@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go               15 hrs 53 mins  █████████████████████░░░░   83.42 %
+CMake            2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+go.mod           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+CMakeLists.txt   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Shell Script     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
