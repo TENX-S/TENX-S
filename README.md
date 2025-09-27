@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C                2 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   32.34 %
+Go               2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.56 %
+C/C++            1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+Markdown         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Bash             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
